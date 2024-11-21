@@ -1,8 +1,8 @@
-##Projetos de Aprendizado em HTML e CSS 📚💻
+### Projetos de Aprendizado em HTML e CSS 📚💻
 
 Este repositório contém projetos desenvolvidos como parte do meu aprendizado de HTML e CSS através dos cursos da Alura. Cada projeto tem como objetivo praticar conceitos específicos e construir interfaces atraentes e funcionais.
 
-#🚀 Projetos Incluídos
+### 🚀 Projetos Incluídos
 
 1. Conceitos Básicos
 Descrição: Estruturação de páginas web com tags semânticas.
@@ -29,9 +29,9 @@ Localização: ./alura/alura-desafios/desafio004
 
 ---
 
-#🎯 Objetivo
+### 🎯 Objetivo
 O objetivo desses projetos é reforçar a prática com HTML5 e CSS3, preparando-me para desafios mais complexos no desenvolvimento web.
 
-#🚧 Em Desenvolvimento
+### 🚧 Em Desenvolvimento
 Conforme avanço nos estudos, mais projetos e aprimoramentos serão adicionados a este repositório.
 
