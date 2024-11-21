@@ -1,4 +1,4 @@
-#Projetos de Aprendizado em HTML e CSS 📚💻
+##Projetos de Aprendizado em HTML e CSS 📚💻
 
 Este repositório contém projetos desenvolvidos como parte do meu aprendizado de HTML e CSS através dos cursos da Alura. Cada projeto tem como objetivo praticar conceitos específicos e construir interfaces atraentes e funcionais.
 
